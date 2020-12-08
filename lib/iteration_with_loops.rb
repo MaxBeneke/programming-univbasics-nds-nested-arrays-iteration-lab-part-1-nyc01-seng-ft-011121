@@ -12,5 +12,5 @@ def find_even_values(src)
         element_index += 1
       end
     end
-    row_index += 1f
+    row_index += 1
 end
